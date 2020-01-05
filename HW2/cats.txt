@@ -1,0 +1,27 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf110
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+>>> NNIheuristic(catMapping,2)\
+([inf, ['Dog', [], []], [0.17543859649122806, [0.17192982456140352, ['Wolf', [], []], [0.09473684210526316, ['Black Bear', [], []], [0.06666666666666667, ['Brown Bear', [], []], ['Cave Bear', [], []]]]], [0.14385964912280702, ['Homotherium', [], []], [0.13333333333333333, [0.12280701754385964, ['Striped Hyena', [], []], ['Spotted Hyena', [], []]], [0.12280701754385964, ['Sabertooth', [], []], [0.11228070175438597, [0.09824561403508772, ['Tiger', [], []], [0.07368421052631578, ['Leopard', [], []], ['Lion', [], []]]], [0.09824561403508772, [0.014035087719298246, ['Felis Cat', [], []], [0.010526315789473684, ['African Wild Cat', [], []], ['Wild Cat', [], []]]], [0.09473684210526316, ['Chinese Desert Cat', [], []], [0.08070175438596491, ['Cheetah', [], []], [0.05964912280701754, ['American Cat', [], []], ['Puma', [], []]]]]]]]]]]], 36)\
+score = 36 for sampleSize = 2\
+\
+NNIheuristic(catMapping,5)\
+(('Anc', ('Anc', ('Chinese Desert Cat', (), ()), ('Anc', ('Anc', ('Tiger', (), ()), ('Anc', ('Leopard', (), ()), ('Lion', (), ()))), ('Anc', ('Sabertooth', (), ()), ('Anc', ('Anc', ('Striped Hyena', (), ()), ('Spotted Hyena', (), ())), ('Anc', ('Homotherium', (), ()), ('Anc', ('Anc', ('Wolf', (), ()), ('Anc', ('Black Bear', (), ()), ('Anc', ('Brown Bear', (), ()), ('Cave Bear', (), ())))), ('Dog', (), ()))))))), ('Anc', ('Anc', ('Cheetah', (), ()), ('Anc', ('American Cat', (), ()), ('Puma', (), ()))), ('Anc', ('Felis Cat', (), ()), ('Anc', ('African Wild Cat', (), ()), ('Wild Cat', (), ()))))), 28)\
+score = 28 for sampleSize = 5\
+\
+NNIheuristic(catMapping,20)\
+(('Anc', ('Anc', ('Anc', ('Felis Cat', (), ()), ('Anc', ('African Wild Cat', (), ()), ('Wild Cat', (), ()))), ('Anc', ('Sabertooth', (), ()), ('Anc', ('Anc', ('Striped Hyena', (), ()), ('Spotted Hyena', (), ())), ('Anc', ('Homotherium', (), ()), ('Anc', ('Anc', ('Wolf', (), ()), ('Anc', ('Black Bear', (), ()), ('Anc', ('Brown Bear', (), ()), ('Cave Bear', (), ())))), ('Dog', (), ())))))), ('Anc', ('Anc', ('Chinese Desert Cat', (), ()), ('Anc', ('Cheetah', (), ()), ('Anc', ('American Cat', (), ()), ('Puma', (), ())))), ('Anc', ('Tiger', (), ()), ('Anc', ('Leopard', (), ()), ('Lion', (), ()))))), 28)\
+score = 28 for sampleSize = 20\
+\
+NNIheuristic(catMapping,30)\
+(('Anc', ('Anc', ('Anc', ('Felis Cat', (), ()), ('Anc', ('African Wild Cat', (), ()), ('Wild Cat', (), ()))), ('Anc', ('Sabertooth', (), ()), ('Anc', ('Anc', ('Striped Hyena', (), ()), ('Spotted Hyena', (), ())), ('Anc', ('Homotherium', (), ()), ('Anc', ('Anc', ('Wolf', (), ()), ('Anc', ('Black Bear', (), ()), ('Anc', ('Brown Bear', (), ()), ('Cave Bear', (), ())))), ('Dog', (), ())))))), ('Anc', ('Anc', ('Chinese Desert Cat', (), ()), ('Anc', ('Cheetah', (), ()), ('Anc', ('American Cat', (), ()), ('Puma', (), ())))), ('Anc', ('Tiger', (), ()), ('Anc', ('Leopard', (), ()), ('Lion', (), ()))))), 28)\
+score = 28 for sampleSize = 30\
+\
+\
+\
+\
+}
